@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sawikx
+- 👋 Hi, I’m Jakub Sawicki otherwise @sawikx
 - I'm interested in programming
 - I’m currently learning 
 - I’m looking to job
